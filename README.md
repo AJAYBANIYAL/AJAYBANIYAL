@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="banner" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFodnFhY25hM2JiMm56Z3Bya3R0dzJmMGUzZG5hYzl0Y29uYTJ4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Ajay Baniyal</h1>
