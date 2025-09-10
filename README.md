@@ -26,30 +26,33 @@
 ---
 
 ## 📌 Featured Projects
-- 🌐 [Portfolio Website](https://ajaybaniyal.vercel.app/)  
-- 🤖 [AI Cardiac Murmur Detection (95% accuracy)](https://ijaseat.iraj.in/paper_detail.php?paper_id=20273&name=AI_Based_Detection_of_Cardiac_Murmur_Using_Chest_Auscultation)  
-- 💬 Intelligent NLP Chatbot  
-- 📱 ORRKU Mobile App (React Native + Firebase + Geo features)  
+- 🌐 **Portfolio Website:** [ajaybaniyal.vercel.app](https://ajaybaniyal.vercel.app/)  
+- 🤖 **AI Cardiac Murmur Detection (95% accuracy):** [Research Paper](https://ijaseat.iraj.in/paper_detail.php?paper_id=20273&name=AI_Based_Detection_of_Cardiac_Murmur_Using_Chest_Auscultation)  
+- 💬 **NLP Chatbot:** Context-aware text understanding & intent recognition  
+- 📱 **ORRKU Mobile App:** React Native + Firebase + Geofencing + Push notifications  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaybaniyal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaybaniyal&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybaniyal&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaybaniyal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaybaniyal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajaybaniyal/ajaybaniyal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybaniyal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🌱 Currently Exploring
+- Applied **Generative AI** systems & model fine-tuning  
+- **AI deployment** on mobile/web (ONNX, TF Lite)  
+- Scalable pipelines for **real-time AI apps**  
+
+---
+
+## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ajaybaniyal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ajaybaniyal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
