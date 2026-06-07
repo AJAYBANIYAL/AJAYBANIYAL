@@ -24,7 +24,7 @@
 ```yaml
 name:     Ajay Baniyal
 role:     AI & ML Engineer · Generative AI Explorer
-location: Delhi, India
+location: Himachal Pradesh, India
 focus:    Generative AI · Mobile AI · Real-time Pipelines
 status:   Open to opportunities
 ```
