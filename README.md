@@ -1,183 +1,146 @@
+# Ajay Baniyal
+### AI/ML Engineer · Full-Stack Developer · Applied AI Researcher
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=210&section=header&text=Ajay%20Baniyal&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20AI%20%26%20Blockchain%20Engineer&descAlignY=57&descSize=17" width="100%" />
-
-<a href="https://ajaybaniyal.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+scalable+mobile+apps+with+React+Native;Designing+RAG+%26+GenAI+systems+that+ship;Computer+Vision+that+runs+on+the+edge;Smart+contracts+%2B+beautiful+interfaces" alt="Typing SVG" />
-</a>
-
-<p>
-  <a href="https://linkedin.com/in/ajaybaniyal"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ajaybaniyal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:ajaybanyalofficial@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AJAYBANIYAL&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=Ajay%20Baniyal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligent%20Systems&descAlignY=60&descSize=18" width="100%" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://ajaybaniyal.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/ajaybaniyal">LinkedIn</a> ·
+  <a href="mailto:ajaybanyalofficial@gmail.com">Email</a>
+</p>
 
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+production-ready+AI+applications;Exploring+LLMs%2C+RAG+%26+Multi-Agent+Systems;Developing+Computer+Vision+Solutions;Turning+ideas+into+working+software" />
+</p>
 
-## ✦ About
+---
 
-```yaml
-name:      Ajay Baniyal
-role:      Full-Stack AI & Blockchain Engineer
-based_in:  India
-degree:    M.Tech, Computer Science (Artificial Intelligence)
-focus:     [ Generative AI, RAG, Computer Vision, Smart Contracts ]
-motto:     "Clean architecture, crafted interfaces, measurable impact."
-```
+## About Me
 
-I build products end to end — from the model that makes the prediction to the pixel the user taps. My work sits where **deep learning meets production UX**: retrieval-augmented assistants, real-time vision pipelines, and decentralized apps with interfaces that feel effortless.
+I'm an AI/ML Engineer and Full-Stack Developer with an M.Tech in Computer Science (Artificial Intelligence).
 
-<br />
+I enjoy building intelligent applications that combine machine learning, backend engineering, and intuitive user experiences.
 
-## ✦ Tech Stack
+My interests include developing RAG-powered systems, multi-agent architectures, computer vision applications, and scalable software products.
 
-<div align="center">
+- **Current focus:** Generative AI, LLM applications, RAG and agentic systems.
+- **Engineering:** Full-stack development and cross-platform applications.
+- **Research interests:** Applied Machine Learning, NLP and intelligent automation.
+- **Education:** M.Tech in Computer Science (Artificial Intelligence).
 
-**Languages**
+## Technical Expertise
 
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Frontend & Design**
+### Generative AI & Intelligent Systems
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing
+- Multi-Agent Systems
+- Prompt Engineering
+- Embeddings and Semantic Search
+- AI-powered Automation
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Development & Infrastructure
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+---
 
-<br />
+## Selected Projects
 
-## ✦ GitHub in Numbers
+### ScholarLens — Multi-Agent Research Verification
+**Python · LLMs · RAG · Multi-Agent Systems**
 
-<div align="center">
+An intelligent research assistant concept designed to orchestrate specialized agents for literature analysis, research verification, and evidence-based insights.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AJAYBANIYAL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAYBANIYAL&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+### MusicMetAI — AI-Powered Music Platform
+**React · AI/ML · Full-Stack Development**
 
-<br />
+An AI-focused music platform exploring the intersection of intelligent technology and music discovery.
 
-<img src="https://streak-stats.demolab.com?user=AJAYBANIYAL&hide_border=true&background=0D1117&stroke=1F2937&ring=8B5CF6&fire=0EA5E9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6B7280" />
+Website: https://musicmetai.com
 
-<br /><br />
+### Virtual Vault — Secure Mobile Application
+**React Native · TypeScript · Mobile Engineering**
 
-<img src="https://github-profile-trophy.vercel.app/?username=AJAYBANIYAL&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+A mobile application focused on secure digital storage, minimalist interfaces, and a streamlined user experience.
 
-<br />
+### FLAAT — Foreign Linguistics Analyser and Translator
+**Python · PyQt · NLP**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAYBANIYAL&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Rhythm" width="100%" />
+A desktop application concept for linguistic analysis and translation workflows.
 
-</div>
+### Seismic Waves Tracker
+**Python · Data Analysis · Geospatial Applications**
 
-<br />
+A project exploring seismic activity and earthquake-related information across the Himalayan region.
 
-## ✦ Featured Work
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## GitHub Statistics
 
-### 🤖 RAG-Powered Assistant
-`Python` `PyTorch` `NLP`
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AJAYBANIYAL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAYBANIYAL&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+</p>
 
-Retrieval-augmented assistant over a large private corpus.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AJAYBANIYAL&theme=transparent&hide_border=true&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" width="80%" />
+</p>
 
-- **92%** retrieval accuracy
-- **100K+** documents indexed
-- Streaming answers with source citations
+---
 
-</td>
-<td width="50%" valign="top">
+## Education
 
-### 👁️ Object Detection System
-`TensorFlow` `Keras` `OpenCV`
+| Qualification | Institution |
+|---|---|
+| M.Tech — Computer Science (Artificial Intelligence) | Punjab Technical University / C-DAC Mohali |
+| B.E. — Computer Science | Chandigarh University |
 
-Real-time detection tuned for constrained hardware.
+---
 
-- **94%** mAP
-- **60 FPS** on edge devices
-- Quantized inference pipeline
+## Let's Connect
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+I'm interested in opportunities involving applied AI, machine learning engineering, research, and building intelligent software products.
 
-### 📊 Scraping & Analysis Platform
-`Python` `Scikit-Learn` `SQL`
+<p align="center">
+  <a href="https://linkedin.com/in/ajaybaniyal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ajaybaniyal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ajaybanyalofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-End-to-end data pipeline from crawl to forecast.
+<p align="center">
+  <i>Building intelligent systems. Engineering meaningful experiences.</i>
+</p>
 
-- **500K+** data points daily
-- **89%** prediction accuracy
-- Automated quality monitoring
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ Decentralized Application
-`Solidity` `Smart Contracts` `React`
-
-Trustless peer-to-peer transactions with live on-chain state.
-
-- Gas-optimized contracts
-- Real-time event subscriptions
-- Self-custody wallet flows
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## ✦ Experience
-
-**React Native Developer** · Orrku
-`Mar 2024 — Aug 2025`
-
-> Shipped cross-platform applications used by thousands, cutting load time by **40%** and lifting engagement by **45%**.
-
-- Delivered production releases with **99.9% uptime**
-- Reduced production defects by **50%** via strict typing and review discipline
-- Owned performance profiling and memory optimization across iOS and Android
-
-<br />
-
-## ✦ Education
-
-| Degree | Institution | Years |
-| :--- | :--- | :--- |
-| **M.Tech**, Computer Science (Artificial Intelligence) | Punjab Technical University · C-DAC Mohali | 2021 — 2023 |
-| **B.E.**, Computer Science | Chandigarh University | 2017 — 2021 |
-
-<br />
-
-<div align="center">
-
-### Let's build something worth remembering.
-
-<a href="mailto:ajaybanyalofficial@gmail.com"><img src="https://img.shields.io/badge/Say_hello-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=120&section=footer" width="100%" />
-
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=100&section=footer" width="100%" />
+</p>
