@@ -68,37 +68,6 @@ My interests include developing RAG-powered systems, multi-agent architectures, 
 
 ---
 
-## Selected Projects
-
-### ScholarLens — Multi-Agent Research Verification
-**Python · LLMs · RAG · Multi-Agent Systems**
-
-An intelligent research assistant concept designed to orchestrate specialized agents for literature analysis, research verification, and evidence-based insights.
-
-### MusicMetAI — AI-Powered Music Platform
-**React · AI/ML · Full-Stack Development**
-
-An AI-focused music platform exploring the intersection of intelligent technology and music discovery.
-
-Website: https://musicmetai.com
-
-### Virtual Vault — Secure Mobile Application
-**React Native · TypeScript · Mobile Engineering**
-
-A mobile application focused on secure digital storage, minimalist interfaces, and a streamlined user experience.
-
-### FLAAT — Foreign Linguistics Analyser and Translator
-**Python · PyQt · NLP**
-
-A desktop application concept for linguistic analysis and translation workflows.
-
-### Seismic Waves Tracker
-**Python · Data Analysis · Geospatial Applications**
-
-A project exploring seismic activity and earthquake-related information across the Himalayan region.
-
----
-
 ## GitHub Statistics
 
 <p align="center">
