@@ -1,6 +1,4 @@
-Here's the aesthetic version — animated gradient hero, typing headline, glassy stats, and a clean neon-on-dark palette. Paste it into a repo named `AJAYBANIYAL` with a `README.md`. Phone number and teaching experience stay out.
 
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=210&section=header&text=Ajay%20Baniyal&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20AI%20%26%20Blockchain%20Engineer&descAlignY=57&descSize=17" width="100%" />
@@ -182,6 +180,4 @@ Trustless peer-to-peer transactions with live on-chain state.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=120&section=footer" width="100%" />
 
 </div>
-```
 
-Swap `AJAYBANIYAL` if your GitHub handle differs — every widget reads from that one value.
